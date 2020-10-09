@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How to make a simple like function using useState"
-date:       2020-10-09 19:09:38 +0000
+date:       2020-10-09 15:09:38 -0400
 permalink:  how_to_make_a_simple_like_function_using_usestate
 ---
 
